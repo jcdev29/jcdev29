@@ -87,9 +87,5 @@ Improve LOKI mobile application, exploring modern Flutter architecture patterns.
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-</div>
-
-<div align="center">
   <i>Building the future, one widget at a time 🚀</i>
 </div>
