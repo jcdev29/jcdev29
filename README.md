@@ -1,16 +1,17 @@
 # Hi there, I'm JC 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=2D9EF7&center=true&vCenter=true&width=940&lines=Mobile+App+Developer;Flutter+%7C+Dart+Specialist;Building+Offline-First+Apps;Senior+Programmer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=2D9EF7&center=true&vCenter=true&width=940&lines=Mobile+App+Developer;Flutter+%7C+Dart+Specialist;Building+Offline-First+Apps;Programmer" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
 
-Mobile developer specializing in **Flutter** with a passion for building robust, offline-first applications. Currently working as a senior programmer through an external consulting agency, crafting production-ready mobile solutions.
+Mobile developer specializing in **Flutter** with a passion for building robust, offline-first applications. Currently working as a programmer assigned to handle mobile application development with the team, crafting production-ready mobile solutions.
 
-- 🔭 Currently working on **LOKI** - A field sales management application
-- 💡 Exploring **FlutterFlow** for rapid prototyping
-- 🌱 Diving deeper into **Go** for backend services
+- Currently working and maintaining **LOKI** - A field sales management application.
+- Developing **Pocket Hero** - Upgraded version of Loki with added features.
+- Exploring other programming technologies to deepen knowledge. 
+- Diving deeper into **Go** for backend services
 
 ## 💻 Tech Stack
 
@@ -47,17 +48,6 @@ class Expertise {
 }
 ```
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jcdev29&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcdev29&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
 ## 🏆 Featured Projects
 
 ### 📱 LOKI - Field Sales Management
@@ -69,11 +59,11 @@ A comprehensive mobile application for field sales teams with offline-first capa
 ### 💼 Pocket Hero
 Improve LOKI mobile application, exploring modern Flutter architecture patterns.
 
-**Tech:** Flutter • Riverpod • Hive • Objectbox • Location Services • Offline Sync
+**Tech:** Flutter • Riverpod • Objectbox • Location Services • Offline Sync
 
 ## 🔥 Recent Achievements
 
-- ✅ Launched LOKI mobile app to production
+- ✅ Launched LOKI mobile app to production 
 - ✅ Modernized UI/UX across multiple production screens
 - ✅ Implemented complex offline-first architecture with robust sync
 - ✅ Built CRUD operations API in Go
@@ -87,5 +77,5 @@ Improve LOKI mobile application, exploring modern Flutter architecture patterns.
 ---
 
 <div align="center">
-  <i>Building the future, one widget at a time 🚀</i>
+  <i>Building the future, one widget at a time</i>
 </div>
